@@ -18,10 +18,14 @@ ChatGPT
 
 ## PROMPT THAT WAS MOST USEFUL
 
-A useful prompt was to define the Edumerge Intelligent Timetable
-Generator requirements and ask for a production-style assessment
-prototype that enforced division, faculty, room, capacity, laboratory,
-and weekly-session constraints while explaining impossible schedules.
+"Build a practical, interview-ready solution for Edumerge Assignment 3 —
+Intelligent Timetable Generator. The system should generate college
+timetables across divisions, subjects, faculty, classrooms and periods.
+Enforce hard constraints including division, faculty and room conflicts,
+room capacity, laboratory requirements and required weekly sessions.
+Use a constraint-based/backtracking approach, handle impossible
+schedules with clear explanations, and provide a professional React
+frontend with a Django REST backend."
 
 The most useful part of the interaction was iterating on the actual
 generated result instead of treating generated code as automatically
